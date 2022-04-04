@@ -19,4 +19,5 @@ public class CucumberRunner {
     // string for debug_code branch # 4 Modify_3
     // test for test 22
     // continue testing bla bla bla (in master branch)
+    // continue testing bla2 bla2 bla2 (in master branch 2)
 }
