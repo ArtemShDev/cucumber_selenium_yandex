@@ -25,4 +25,5 @@ public class CucumberRunner {
     // for compare with master branch
     // continue testing bla bla bla (in master branch)
     // continue testing bla2 bla2 bla2 (in master branch 2)
+    // continue all
 }
