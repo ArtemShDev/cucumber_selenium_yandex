@@ -12,8 +12,5 @@ import org.junit.runner.RunWith;
         glue = "tests.steps",
         tags = {"@Run"}
 )
-public class CucumberRunner {
-    // string for debug_code branch
-    // string for debug_code branch # 2
-    // string for debug_code branch # 3
+public class CucumberRunner2 {
 }
